@@ -60,5 +60,8 @@
 		"semi": false,
 		"useTabs": true,
 		"trailingComma": "all"
+	},
+	"engines": {
+		"node": ">=24.0.0"
 	}
 }
